@@ -1,0 +1,16 @@
+{
+  "name": "cloudzoo2",
+  "version": "0.0.0",
+  "description": "SampleNodeJsApp",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "cryptolens": "^1.0.1-5.1"
+  }
+}
